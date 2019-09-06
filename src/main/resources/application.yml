@@ -5,4 +5,4 @@ spring:
     name: tensquare-search
   data:
     elasticsearch:
-      cluster-nodes: 116.62.4.29:9300
+      cluster-nodes: 192.168.8.128:9300
